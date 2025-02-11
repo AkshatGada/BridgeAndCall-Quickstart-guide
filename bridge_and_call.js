@@ -1,4 +1,4 @@
-const { getLxLyClient, tokens, configuration, from } = require('./utils/utils_lxly');
+const { getLxLyClient, tokens, configuration, from } = require('./utils_lxly');
 const { Counter } = require("../../ABIs/Counter");
 
 const execute = async () => {
