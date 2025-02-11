@@ -1,4 +1,4 @@
-const { getLxLyClient, tokens, configuration, from, to } = require('./utils/utils_lxly');
+const { getLxLyClient, tokens, configuration, from, to } = require('./utils_lxly');
 
 const execute = async () => {
     const client = await getLxLyClient();
