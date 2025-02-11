@@ -21,7 +21,7 @@ The agglayer bridging solution allows you to invoke a contract on a destination 
 ## Prerequisites
 
 - **Node.js:** Install from [nodejs.org](https://nodejs.org/).
-- **Contract Deployment Tools:** Use Hardhat, Truffle, or Remix to deploy contracts.
+- **Contract Deployment Tools:** Use Hardhat or Remix to deploy contracts.
 - **lxly.js and ABIs:** Ensure you have access to `lxly.js` and the ABI for your target contract.
 - **Test Networks:** Access to Cardona (source) and Silicon Sepolia (destination).
 
